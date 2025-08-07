@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Aplicación de React + TypeScript que consume una API pública para gestión de usuarios. Permite visualizar, buscar y ver información usuarios con una interfaz responsive y moderna.
+Aplicación de React + TypeScript que consume una API pública para gestión de usuarios. Permite visualizar, buscar y ver información de usuarios con una interfaz responsive y moderna.
 
 ## Tecnologías
 
